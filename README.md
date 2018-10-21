@@ -1,7 +1,7 @@
 ## Cram
 
 ### App Description
-Cram is a flashcard application that has toggling answer features, front and back ends of each flashcard, and indicates the right or wrong answer when an option is chosen
+Cram is a flashcard application that has toggling answer features, front and back ends of each flashcard, and indicates the right or wrong answer when an option is chosen.
 
 ### App Walk-Through
 <img src="cram.gif" width=300><br>
